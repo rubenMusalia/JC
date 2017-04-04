@@ -10,6 +10,10 @@
           <option name="url" value="https://github.com/rubenMusalia/JC.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/rubenMusalia/Python_Practice.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="E:\Other media\Tutorials\python 17\JC" />
